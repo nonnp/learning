@@ -16,4 +16,4 @@ It was done for more understanding on imbalanced dataset and data cleaning.
   - [CatBoost](https://catboost.ai/en/docs/concepts/python-reference_catboostclassifier)
   - [XGBoost](https://xgboost.readthedocs.io/en/stable/python/index.html)
 
-[Go to notebook](credit%20risk/credit_risk.ipynb)
+[Go to notebook](credit_risk.ipynb)
