@@ -15,3 +15,5 @@ It was done for more understanding on imbalanced dataset and data cleaning.
   - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
   - [CatBoost](https://catboost.ai/en/docs/concepts/python-reference_catboostclassifier)
   - [XGBoost](https://xgboost.readthedocs.io/en/stable/python/index.html)
+
+[Go to notebook](credit%20risk/credit_risk.ipynb)
