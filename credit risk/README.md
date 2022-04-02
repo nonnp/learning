@@ -1,6 +1,6 @@
 # Credit Default Risk
 
-This notebook was inspired by Financial Engineering course, one of the topics is about US subprime mortgage crisis which involves massive amount of default.
+This notebook was inspired by Financial Engineering course, one of the topics is about US subprime mortgage crisis which involves massive amount of default on mortgage loan.
 
 It was done for more understanding on imbalanced dataset and data cleaning.
 
