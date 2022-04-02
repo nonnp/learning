@@ -4,4 +4,4 @@ This notebook was created for more understanding on how to create neural network
 
 It includes trying different layers of neural network and trying model with or without data augmentation.
 
-[Go to notebook](CIFAR10.ipnyb)
+[Go to notebook](CIFAR10.ipynb)
